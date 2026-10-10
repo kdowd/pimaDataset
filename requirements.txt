@@ -1,0 +1,15 @@
+# Installed into .venv for the Pima Indians Diabetes project.
+# Python 3.14.4 (the project venv interpreter).
+#
+# Needed by pima_analysis.ipynb / pima_analysis.py and the cleaning scripts:
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+jupyterlab==4.6.4
+ipykernel==7.4.0
+jupytext==1.19.6
+
+# Only needed to run removed_sections.py, the archive of the sections that were cut
+# from the notebook:
+numpy==2.5.3
